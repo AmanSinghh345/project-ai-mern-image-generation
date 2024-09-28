@@ -1,4 +1,4 @@
-# Build and Deploy a Full Stack MERN AI Image Generation App: MidJourney & DALL-E Clone
+
 
 ## Overview
 This project is a full-stack MERN application that utilizes DALL-E and MidJourney APIs for generating AI-based images. Users can create stunning images based on their inputs, showcasing the power of modern AI technologies in a user-friendly interface.
